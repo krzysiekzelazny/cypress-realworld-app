@@ -6,7 +6,11 @@ on:
       - "renovate/**"
       # - "!develop"
 
+<<<<<<< HEAD
    jobs:
+=======
+jobs:
+>>>>>>> 1595e5daff04cda5b376937b684a6d8a210accaa
   install:
     runs-on: ubuntu-latest
     container: 
