@@ -6,7 +6,7 @@ on:
       - "renovate/**"
       # - "!develop"
 
-    jobs:
+   jobs:
   install:
     runs-on: ubuntu-latest
     container: 
